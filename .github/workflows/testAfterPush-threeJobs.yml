@@ -1,7 +1,3 @@
-lint
-test
-build
-
 name: Lint Test and Build Project
 on: push
 jobs:
